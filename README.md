@@ -1,8 +1,7 @@
-## uECG PC monitor - browser version, based on node.js
+## moyoECG PC monitor - browser version, based on node.js
 
 This app at the moment basically duplicates functionality of Android app, but works with x8 higher data rate.
 
-~~Download portable version for Windows here: https://github.com/ultimaterobotics/uecg_windows~~
 
 Uploaded executables for Linux, Windows and MacOS, compiled for Node 16. They should work out of the box, let us know in the issues if not.
 
